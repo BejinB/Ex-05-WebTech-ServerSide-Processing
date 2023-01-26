@@ -23,6 +23,7 @@ If it is working successfully then take pics of output and push changes to githu
 
 
 # PROGRAM:
+```
 <!DOCTYPE html>
 <html lang='en'>
     <head>
@@ -86,7 +87,9 @@ If it is working successfully then take pics of output and push changes to githu
     </body>
 
 </html> 
+```
 # OUTPUT:
+![image](https://user-images.githubusercontent.com/118367518/214889562-da4c9784-b5f0-429b-99bb-15df002ccc08.png)
 
 # RESULT:
 
